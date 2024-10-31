@@ -14,29 +14,37 @@ Al depurar la base de datos, se encontraron 87 datos nulos, mismos que fueron el
 ## Visualización de datos 
   ## Generales
 Gráfica 1 Recuento por sexo
+
 ![image](https://github.com/user-attachments/assets/e76c4f65-e69d-42f4-8f67-21f7d520516b)
 
 Gráfica 2 Histograma por edades
+
 ![image](https://github.com/user-attachments/assets/94d9d427-b05c-43be-aca9-b2d4189b2182)
 
 Gráfica 3 Sobrevivientes por sexo y edad
+
 ![image](https://github.com/user-attachments/assets/f87d4533-2778-4518-b07b-58781864626d)
 
   ## Pasajeros sobrevivientes
 Gráfica 4 Histograma por edades
+
 ![image](https://github.com/user-attachments/assets/13c49735-8fff-487d-abe5-b2acf73acfba)
 
 Gráfica 5 Diagrama de dispersión Edad y Clase social
+
 ![image](https://github.com/user-attachments/assets/19453092-d758-4020-b554-708d6bc4ebbf)
 
 Gráfica 6 Diagrama de barras lugar de embarcación 
+
 ![image](https://github.com/user-attachments/assets/9baa4a23-99cd-49f5-a7ff-2e99903b4e47)
 
   ## Pasajeros que no sobrevivieron al Titanic
 Gráfica 7 Diagrama de barras lugar de embarcación
+
 ![image](https://github.com/user-attachments/assets/d9398152-c44e-49c0-906c-94b9c7bb39a1)
 
 Gráfica 8 Diagrama de dispersión Edad y Clase social
+
 ![image](https://github.com/user-attachments/assets/06c0a2dc-0898-4d00-a9de-dcc61209a205)
 
   ## Resumen pasajeros sobrevivientes
